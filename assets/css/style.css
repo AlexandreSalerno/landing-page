@@ -23,3 +23,21 @@
 .carousel-plane-msg {
     font-size: 5rem;
 }
+
+.msg-titulo {
+    font-size: 3rem;
+}
+
+.msg {
+    font-size: 1.5rem;
+}
+
+.br-50 {
+    border-radius: 50%;
+    
+}
+
+.wh-15 {
+    width: 15rem;
+    height: 15rem;
+}
